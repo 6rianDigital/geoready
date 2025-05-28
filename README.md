@@ -17,8 +17,8 @@ For educational/hackathon purposes only
   - National Rail Network shapefiles from NRCan (via FTP)
   - Industrial sites data (Metal Works, Oil & Gas, Producing Mines)
   - Stream Networks
-- ✂️ Clip railways and industrial sites to your area of interest (AOI)
-- 🌍 Output data is reprojected to EPSG:4326 for GEE compatibility
+- ✂️ Clip data sets to your area of interest (AOI)
+- 🌍 Output data is reprojected to EPSG:4326 for GEE compatibility and then reprojected again to UTM for AOI specific zone for detailed analysis accuracy
 - 🌐 Google Earth Engine integration via `geemap` and `ee`
 
 ---
