@@ -16,6 +16,7 @@ For educational/hackathon purposes only
   - Census Subdivision boundaries (2021)
   - National Rail Network shapefiles from NRCan (via FTP)
   - Industrial sites data (Metal Works, Oil & Gas, Producing Mines)
+  - Stream Networks
 - ✂️ Clip railways and industrial sites to your area of interest (AOI)
 - 🌍 Output data is reprojected to EPSG:4326 for GEE compatibility
 - 🌐 Google Earth Engine integration via `geemap` and `ee`
