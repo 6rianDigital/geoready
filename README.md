@@ -1,6 +1,6 @@
 # GeoReady: On-Demand Spatial Data Prep for Any Canadian Community 🇨🇦
 
-GeoReady is a Python-based geospatial automation tool for downloading, filtering, and clipping key spatial datasets—DEMS, railways, industrial sites, and census subdivisions—for any named Canadian community. Designed for researchers, planners, and GIS analysts, GeoReady simplifies complex workflows by automating the spatial data preparation pipeline.
+GeoReady is a Python-based geospatial automation tool for downloading, filtering, and clipping key spatial datasets—DEMS, railways, industrial sites, streams, and census subdivisions—for any named Canadian community. Designed for researchers, planners, and GIS analysts, GeoReady simplifies complex workflows by automating the spatial data preparation pipeline.
 
 Created by Enrie-Joy Sala and Brian Gauthier as a submission for the 2025 GeoIgnite Hackathon with NRCan and geo.ca
 For educational/hackathon purposes only
